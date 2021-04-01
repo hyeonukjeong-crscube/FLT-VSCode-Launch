@@ -2,6 +2,7 @@
 
 VSCode 쓰는 사람을 위한 launch.json 파일
 
+~~~
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -21,3 +22,4 @@ VSCode 쓰는 사람을 위한 launch.json 파일
         }
     ]
 }
+~~~
