@@ -18,24 +18,23 @@ VSCode 쓰는 사람을 위한 launch.json 파일
       "type": "dart"
     },
     {
-      "name": "device",
+      "name": "device-debug",
       "request": "launch",
       "type": "dart",
       "flutterMode": "debug"
     },
     {
-      "name": "device",
+      "name": "device-profile",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile"
     },
     {
-        "name": "device",
+        "name": "device-release",
         "request": "launch",
         "type": "dart",
         "flutterMode": "release"
     }
   ]
 }
-
 ~~~
